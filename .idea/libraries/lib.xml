@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.moxy-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-beans-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-websocket-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-context-support-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org-apache-commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-expression-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.jpa.jpql-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-orm-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-core-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-aop-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.jpa-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-instrument-tomcat-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-webmvc-portlet-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-messaging-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-test-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-aspects-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-oxm-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-webmvc-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-context-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.asm-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-jms-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.eclipse.persistence.core-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-web-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-jdbc-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-instrument-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/javax.persistence-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-tx-4.3.29.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
